@@ -1,5 +1,3 @@
-import { prisma } from "./lib/prisma";
-
 //create a new user
 // async function run() {
 //   const createdUser = await prisma.user.create({
@@ -11,6 +9,8 @@ import { prisma } from "./lib/prisma";
 //   console.log("Create User:", createdUser);
 // }
 // run();
+
+import { prisma } from "../lib/prisma";
 
 //create a new post for user id 1
 // async function runPost() {
