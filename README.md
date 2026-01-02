@@ -6,11 +6,11 @@ prisma.io/docs
 ```
 
 ```
----[https://www.prisma.io/docs/getting-started/prisma-orm/add-to-existing-project/postgresql]
+https://www.prisma.io/docs/getting-started/prisma-orm/add-to-existing-project/postgresql
 ```
 
 ```
---(https://www.prisma.io/docs/getting-started/prisma-orm/quickstart/postgresql)
+https://www.prisma.io/docs/getting-started/prisma-orm/quickstart/postgresql
 ```
 
 # 1. Create a new project
