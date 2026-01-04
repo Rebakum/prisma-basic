@@ -121,9 +121,15 @@ CREATE
 Create a script.ts file to test your setup:
 
 ```
-
-
 script.ts
+```
+
+## flow this link
+
+create crud
+
+```
+https://www.prisma.io/docs/orm/prisma-client/queries/crud
 ```
 
 # 9. Explore your data with Prisma Studio
